@@ -2,8 +2,8 @@
   "name": "anurag_portfolio",
   "version": "1.0.0",
   "description": "Responsive portfolio website",
-  "main": "index.js",
-  "homepage": "",
+  "main": "main.js",
+  "homepage": "https://yash99thakur.github.io/anurag_website/",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
