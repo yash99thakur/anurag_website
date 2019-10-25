@@ -1,5 +1,5 @@
 {
-  "name": "anurag_portfolio",
+  "name": "Anurag_portfolio",
   "version": "1.0.0",
   "description": "Responsive portfolio website",
   "main": "main.js",
@@ -9,7 +9,7 @@
     "deploy": "gh-pages -d dist"
   },
   "author": "Yash",
-  "license": "GGSipu",
+  "license": "GGSIPU",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "node-sass": "^4.9.2"
